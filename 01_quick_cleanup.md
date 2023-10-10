@@ -39,7 +39,7 @@ I didn't put arrows this time, good luck!
 
 ![](screenshots/capstone_06.png)
 
-Hey jk it failed. `teams` is not defined. We need to return that dataframe in `sleeper_code\get_team_names.py`. Actually a normal problem fix one bug, create 10 more! Let's go one line of code at a time.
+Hey jk it failed. `teams` is not defined. We need to return that dataframe in `sleeper_code/get_team_names.py`. Actually a normal problem fix one bug, create 10 more! Let's go one line of code at a time.
 
 Okay I put the arrows back. Lines 49 and 50. Follow along let's go.
 
