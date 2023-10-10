@@ -22,7 +22,7 @@ And then we'll add parameter into line 28 to pull in teams
 
 ### Changing Get Teams Data
 
-Let's alter `sleeper_code\get_team_data.py`
+Let's alter `sleeper_code/get_team_data.py`
 
 
 - Pass the df object into the function on line 6
