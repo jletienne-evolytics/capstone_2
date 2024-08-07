@@ -13,7 +13,7 @@ Dora the Explorer Voice: Can you guess the next step?
 That's right we need to create a file called `sleeper_code/get_player_data.py`
 
 
-How this look?
+How does this look?
 
 ![](screenshots/capstone_11.png)
 
