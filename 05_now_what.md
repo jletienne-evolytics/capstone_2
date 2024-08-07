@@ -10,4 +10,4 @@ Maybe pivot some data. And what did we learn.
 Two capstones later. Christian McCaffrey is the best player in fantasy football. 
 
 
-We hope you enjoyed this session of Python Training. Please submit your survey feedback to Sean Emmerson for a 15% discount on your next order at Tay's Cheesesteaks.
+We hope you enjoyed this session of Python Training. Please submit your feedback to the team leads
